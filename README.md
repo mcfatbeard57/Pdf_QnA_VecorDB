@@ -69,11 +69,3 @@ This project demonstrates a question-answering system using Astra DB and LangCha
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-
-For any questions or feedback, please open an issue on GitHub
